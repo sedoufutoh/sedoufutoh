@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sedou Futoh 👋
+🌩 Cloud & IT Professional | AWS CLF-C02 In Progress | Calgary, Canada
+---
 
-<!--
-**sedoufutoh/sedoufutoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 What I've Built
+| Project | Stack | Live |
+|---------|-------|------|
+| AWS Cloud Portfolio Website | S3 · CloudFront · Route 53 · ACM · IAM ·
+WAF | [sedoufutoh.com](https://sedoufutoh.com) |
+| Serverless Contact Form | Lambda · API Gateway · SES · IAM · CloudWatch
+| [Live Demo](https://sedoufutoh.com/#contact) |
+---
 
-Here are some ideas to get you started:
+## 🎓 Certifications
+- ✅ Google IT Support Professional Certificate — March 2026
+- ✅ Google AI Essentials Certificate — March 2026
+- 🔥 AWS Certified Cloud Practitioner (CLF-C02) — In Progress
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+**Cloud:** AWS S3 · CloudFront · Lambda · API Gateway · SES · IAM · Route
+53 · ACM · WAF
+**Networking:** TCP/IP · DNS · DHCP · OSI Model · VPN · Subnetting
+**Operating Systems:** Windows · Linux · macOS
+**Tools:** VMware · Google Workspace · Microsoft 365 · Packet Tracer
+---
+
+## 📍 About Me
+Career changer with a 14-year background in education making a deliberate transition into cloud computing and IT support. I believe the best way to learn is to build — every service I study, I deploy.
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sedoufutoh) |
+[sedoufutoh.com](https://sedoufutoh.com) | sedoufutoh@gmail.com
+📍 Calgary, Canada · Open to remote cloud and IT roles
